@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub [MODIFIED BY CAN UYANIK, 820210322]
+# :wave: The Basics of GitHub [MODIFIED BY CAN UYANIK, 820210322] Date: 25.10.2021
 
 ## 🤓 Course overview and learning outcomes 
 
